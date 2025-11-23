@@ -1,4 +1,4 @@
-// Cursed To Be Chained
+// When Death Calls
 // A short text-based choose-your-own-adventure RPG demonic noir game
 // Navigate the city, fight demons and rescue the Chained Prince of the Shadows in the hopes that he will free you from the curse that binds your soul to this city
 
@@ -569,7 +569,7 @@ function printChoice() {
 // Controls the flow of the game
 
 // Display the game title
-console.log("\nWelcome to Cursed To Be Chained");
+console.log("\nWelcome to When Death Calls");
 
 // Starting message
 console.log("Now entering uncharted territory...");
